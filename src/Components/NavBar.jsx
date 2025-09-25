@@ -18,12 +18,17 @@ export default class NavBar extends Component {
           </li>
           <li className="nav-item">
             <a className="nav-link" href="/">
-              Link
+              About
             </a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="/">
-              About
+              Category
+            </a>
+          </li>
+          <li className="nav-item">
+            <a className="nav-link" href="/">
+              Contact us
             </a>
           </li>
         </ul>
